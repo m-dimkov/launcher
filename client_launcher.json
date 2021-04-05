@@ -29,13 +29,13 @@
 	"checkFilesClientBetaURL": "https:\/\/d1.flin-rp.com\/client\/filesclient\/",
 	"checkFilesClientBeta": "files_samp.zip",
 	"checkFilesClientBetaVersion": "1",
-	"checkFilesTexctureURL": "https:\/\/d1.flin-rp.com\/client\/filestexture\/new\/",
+	"checkFilesTexctureURL": "https:\/\/d1.flin-rp.com\/client\/filestexture\/ap\/",
 	"checkFilesTexcture1": "files_texture.zip",
 	"checkFilesTexcture2": "",
 	"checkFilesTexcture3": "",
 	"checkFilesTexcture4": "",
 	"checkFilesTexcture5": "",
-	"checkFilesTexctureVersion": "2",
+	"checkFilesTexctureVersion": "7",
 	"checkFilesTexctureURLBeta": "https:\/\/d1.flin-rp.com\/client\/filestexture\/new\/",
 	"checkFilesTexctureBeta": "files_texture.zip",
 	"checkFilesPatchUpdateURL": "",
@@ -63,9 +63,9 @@
 	"contactForum": "https://forum.flin-rp.com/",
 	"contactSite": "https://flin-rp.com/",
 	
-	"urlUpdateAPK": "flinRelease26.apk",
+	"urlUpdateAPK": "flinRelease28.apk",
 	"verClient": "20",
-	"verLauncher": "6"
+	"verLauncher": "7"
 	
 	
 
