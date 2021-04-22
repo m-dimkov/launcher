@@ -29,13 +29,13 @@
 	"checkFilesClientBetaURL": "https:\/\/d1.flin-rp.com\/client\/filesclient\/",
 	"checkFilesClientBeta": "files_samp.zip",
 	"checkFilesClientBetaVersion": "1",
-	"checkFilesTexctureURL": "https:\/\/d1.flin-rp.com\/client\/filestexture\/ap\/",
+	"checkFilesTexctureURL": "https:\/\/d1.flin-rp.com\/client\/filestexture\/r\/",
 	"checkFilesTexcture1": "files_texture.zip",
 	"checkFilesTexcture2": "",
 	"checkFilesTexcture3": "",
 	"checkFilesTexcture4": "",
 	"checkFilesTexcture5": "",
-	"checkFilesTexctureVersion": "7",
+	"checkFilesTexctureVersion": "8",
 	"checkFilesTexctureURLBeta": "https:\/\/d1.flin-rp.com\/client\/filestexture\/new\/",
 	"checkFilesTexctureBeta": "files_texture.zip",
 	"checkFilesPatchUpdateURL": "",
@@ -46,10 +46,10 @@
 	"checkFilesPatchUpdate5": "",
 	"checkFilesPatchUpdateVersion": "1",
 	"checkDownLoadAPK": "https:\/\/d1.flin-rp.com\/client\/apk\/",
-	"checkDownLoadAPKName": "flinRelease22.apk",
+	"checkDownLoadAPKName": "flinRelease29.apk",
 	"checkDownLoadAPKVersion": "9",
 	"checkDownLoadBetaAPK": "https:\/\/d1.flin-rp.com\/client\/apk\/",
-	"checkDownLoadAPKBetaName": "flinRelease22.apk",
+	"checkDownLoadAPKBetaName": "flinRelease29.apk",
 	"checkDownLoadBetaVersion": "1",
 	"PayMethodServer1": "https://unitpay.ru/pay/182051-6b933?sum=",
 	"PayMethodServer2": "https://unitpay.ru/pay/203041-490e1?sum=",
@@ -63,9 +63,9 @@
 	"contactForum": "https://forum.flin-rp.com/",
 	"contactSite": "https://flin-rp.com/",
 	
-	"urlUpdateAPK": "flinRelease28.apk",
+	"urlUpdateAPK": "flinRelease29.apk",
 	"verClient": "20",
-	"verLauncher": "7"
+	"verLauncher": "8"
 	
 	
 
