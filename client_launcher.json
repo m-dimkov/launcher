@@ -46,10 +46,10 @@
 	"checkFilesPatchUpdate5": "",
 	"checkFilesPatchUpdateVersion": "1",
 	"checkDownLoadAPK": "https:\/\/d1.flin-rp.com\/client\/apk\/",
-	"checkDownLoadAPKName": "flinRelease30.apk",
+	"checkDownLoadAPKName": "flinRelease33.apk",
 	"checkDownLoadAPKVersion": "9",
 	"checkDownLoadBetaAPK": "https:\/\/d1.flin-rp.com\/client\/apk\/",
-	"checkDownLoadAPKBetaName": "flinRelease30.apk",
+	"checkDownLoadAPKBetaName": "flinRelease33.apk",
 	"checkDownLoadBetaVersion": "1",
 	"PayMethodServer1": "https://unitpay.ru/pay/182051-6b933?sum=",
 	"PayMethodServer2": "https://unitpay.ru/pay/203041-490e1?sum=",
@@ -63,9 +63,9 @@
 	"contactForum": "https://forum.flin-rp.com/",
 	"contactSite": "https://flin-rp.com/",
 	
-	"urlUpdateAPK": "flinRelease31.apk",
+	"urlUpdateAPK": "flinRelease33.apk",
 	"verClient": "20",
-	"verLauncher": "8"
+	"verLauncher": "9"
 	
 	
 
