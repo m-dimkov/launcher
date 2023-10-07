@@ -51,8 +51,8 @@
 	"checkDownLoadBetaAPK": "https:\/\/d1.flin-rp.com\/client\/apk\/",
 	"checkDownLoadAPKBetaName": "flinRelease33.apk",
 	"checkDownLoadBetaVersion": "1",
-	"PayMethodServer1": "https://unitpay.ru/pay/182051-6b933?sum=",
-	"PayMethodServer2": "https://unitpay.ru/pay/203041-490e1?sum=",
+	"PayMethodServer1": "https://flin-rp.com/donate?sum=",
+	"PayMethodServer2": "https://flin-rp.com/donate?sum=",
 	"donatetype": "2",
 	"urlMonitoring": "https://flin-rp.com/app/monitoring.php",
 	
